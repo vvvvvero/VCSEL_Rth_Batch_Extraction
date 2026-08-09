@@ -1,0 +1,9 @@
+# Point:,2
+# Setpoint:,0.10181818181818181
+# Step_Start_s:,0.331184
+# Step_End_s:,0.515380
+# Spectrum_Time_s:,0.426863
+# Num_Samples:,1
+
+Relative_Time_s,Voltage_V,Current_A
+0.425905,0.101818182,5e-09
