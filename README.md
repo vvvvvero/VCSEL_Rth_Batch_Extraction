@@ -1,4 +1,4 @@
-# VCSEL Rth Batch Analysis
+# VCSEL Rth Extraction from paired LIV-T and Spectra-T data
 
 Batch-extracts VCSEL thermal resistance (R<sub>th</sub>) from paired
 LIV-vs-temperature and spectrometer-vs-temperature wafer test data, across
